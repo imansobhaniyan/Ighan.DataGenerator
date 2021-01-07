@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ighan.DataGenerator.Core", "Ighan.DataGenerator.Core\Ighan.DataGenerator.Core.csproj", "{291C4390-8DBF-48AB-8958-50128D859A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ighan.DataGenerator.Demo", "Ighan.DataGenerator.Demo\Ighan.DataGenerator.Demo.csproj", "{51964233-2D75-458D-89B5-27CB273AA89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291C4390-8DBF-48AB-8958-50128D859A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291C4390-8DBF-48AB-8958-50128D859A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291C4390-8DBF-48AB-8958-50128D859A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291C4390-8DBF-48AB-8958-50128D859A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51964233-2D75-458D-89B5-27CB273AA89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51964233-2D75-458D-89B5-27CB273AA89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51964233-2D75-458D-89B5-27CB273AA89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51964233-2D75-458D-89B5-27CB273AA89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D4AE9BC-2D18-4647-BFC3-8A1890964161}
+	EndGlobalSection
+EndGlobal
